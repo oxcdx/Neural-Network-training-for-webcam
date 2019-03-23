@@ -1,5 +1,7 @@
 # Neural-Network-training-for-webcam
 
+Method for training Neural Networks on video footage, removing frames with faces as part of pre-process.
+
 Using / adapting the code and method found here:
 https://github.com/memo/webcam-pix2pix-tensorflow 
 
